@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jabirahmed123
 - 👀 I’m interested in creating meaningful stories out of data. 
 - 🌱 I’m currently learning Amazon Web Services
-- 📫 How to reach me: https://www.linkedin.com/in/jabirahmed898/
+- 📫 How to reach me: https://www.linkedin.com/in/jabirmohammed/
 
 <!---
 jabirahmed123/jabirahmed123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
